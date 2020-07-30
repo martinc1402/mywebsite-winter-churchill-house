@@ -12,6 +12,11 @@
     font-size: 1.5vw;
 }
 
+ul {
+    list-style-type: disc;
+    padding-left: 2rem;
+   
+}
 
 
    p {
@@ -25,7 +30,11 @@
            font-size: 1rem;
            line-height: 1.1rem;
            margin-bottom: 1.1rem;
-        }  
+        } 
+
+        ul {
+            font-size: 1rem;
+        }
        }
   /* Menu code */
   
@@ -452,10 +461,7 @@ body {
    
     }
 
-  ul {
-        list-style-type: disc;
-        padding-left: 2rem;
-    }
+ 
 
 
 
